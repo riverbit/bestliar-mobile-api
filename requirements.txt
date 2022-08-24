@@ -1,0 +1,7 @@
+PyJWT
+pytest
+bcrypt
+azure-storage-blob
+boto3
+azure-batch==6.0.0
+shortuuid
